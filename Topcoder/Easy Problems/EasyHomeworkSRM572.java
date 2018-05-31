@@ -1,4 +1,5 @@
 /*
+Original Problem statement link - https://community.topcoder.com/stat?c=problem_statement&pm=12387
 Problem Statement
         You are taking a course in analysis of algorithms and now you are learning about efficient multiplication of large integers. 
         This week, your professor wanted to give you a homework: given a list of integers, determine the product of all elements in the list. 
