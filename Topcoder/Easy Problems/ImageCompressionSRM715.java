@@ -1,4 +1,5 @@
 /*
+Original Problem statement link - https://community.topcoder.com/stat?c=problem_statement&pm=14612
 Problem Statement
         
 You have a rectangular bitmap that consists of n rows by m columns of pixels. You are given the bitmap encoded as a String[] image. 
