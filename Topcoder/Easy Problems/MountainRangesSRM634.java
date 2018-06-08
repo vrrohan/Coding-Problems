@@ -91,11 +91,5 @@ public class MountainRanges {
         System.out.println("maximum number of peaks for range 4 are : " + countPeaks(mountainRanges4));
         System.out.println("maximum number of peaks for range 5 are : " + countPeaks(mountainRanges5));
         System.out.println("maximum number of peaks for range 6 are : " + countPeaks(mountainRanges6));
-
-        String val="";
-        boolean b =true;
-        
-        System.out.println(val);
-
     }
 }
