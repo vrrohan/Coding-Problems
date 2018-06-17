@@ -48,13 +48,10 @@ public class ErasingCharacters {
             int isDeleted=0;
             for(int i=0; i<sb.length()-1; i++) {
                 if(sb.charAt(i)==sb.charAt(i+1)) {
-                   // System.out.println(sb.charAt(i));
                     sb=sb.deleteCharAt(i);
-                 //   System.out.println(sb.charAt(i));
                     sb=sb.deleteCharAt(i);
                     isDeleted++;
                 }
-               // System.out.println("string after if is : " + sb);
             }//for loop ends...
             if(isDeleted==0|sb.length()==0) {
                 b=false;
