@@ -54,6 +54,7 @@ public class NamingConvention {
                     camelCaseVariable+=String.valueOf(varName.charAt(i+1)).toUpperCase();
                     i++;
                 }
+                //if _ is at the end of variable string    
                 else if((varName.charAt(i)=='_')&(i==varName.length()-1)) {
                     camelCaseVariable=camelCaseVariable;
                 }
