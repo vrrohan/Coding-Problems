@@ -1,21 +1,21 @@
 /*
-Problem Statement        
+Problem Statement
 Little Elephant from the Zoo of Lviv likes balls. He has some balls arranged in a row. Each of those balls has one of three possible colors: red, green, or blue.
 You are given a String S. This string represents all the balls that are initially in the row (in the order from left to right). Red, green, and blue balls are represented by characters 'R', 'G', and 'B', respectively. In one turn Little Elephant can remove either the first ball in the row, or the last one.
 Little Elephant wants to obtain a row in which all balls have the same color. Return the smallest number of turns in which this can be done.
 
-Definition        
+Definition
 Class:  LittleElephantAndBallsAgain
 Method: getNumber
 Parameters: String
 Returns:    int
 Method signature:   int getNumber(String S)
 (be sure your method is public)
-    
+
 Constraints
 -   S will contain between 1 and 50 characters, inclusive.
 -   S will consist only of characters 'R', 'G' and 'B'.
- 
+
 Examples
 0)  "RRGGBB"
 Returns: 4
