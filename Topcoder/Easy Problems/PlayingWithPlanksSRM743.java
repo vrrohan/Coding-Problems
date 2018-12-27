@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 /*
 Problem Statement link :- https://community.topcoder.com/stat?c=problem_statement&pm=14664
 Problem Statement :-
@@ -48,7 +47,7 @@ Returns: "possible"
 5)54
 10
 Returns: "impossible"
- */
+*/
 
 public class PlayingWithPlanksSRM743 {
 
